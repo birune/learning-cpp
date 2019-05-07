@@ -1,0 +1,3 @@
+﻿  ShootingGame.cpp
+c:\programming\c++_program\shootinggame\shootinggame.cpp(61): warning C4554: '&': 演算子の優先順位に問題があります。かっこを使用して優先順位を明確にしてください
+  ShootingGame.vcxproj -> C:\programming\C++_program\ShootingGame\Debug\ShootingGame.exe
